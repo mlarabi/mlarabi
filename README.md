@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mlarabi, currenly working on @calx-co.
+- 👀 I’m interested in anything that is related to technology and programmation mainly.
+- 🌱 I’m currently learning Powershell 7 and Shell/Bash.
+- 📫 You can reach me by sending an email to mohammed@larabi.fr

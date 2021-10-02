@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlarabi, currenly working at @calx-co.
+- 👋 Hi, I’m @mlarabi, currenly working at [@calx-co](https://github.com/calx-co).
 - 🚀 I’m interested in anything that is related to technology and programmation mainly.
-- 🌱 I’m currently learning Powershell 7 and Shell/Bash.
-- 📫 You can reach me by sending an email to mohammed@larabi.fr
+- 🌱 I’m currently learning Powershell 7 Core and Shell/Bash.
+- 📫 You can reach me by sending an email to mohammed@larabi.fr (personal) or mlarabi@calx.co (professional).
